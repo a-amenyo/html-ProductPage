@@ -1,0 +1,36 @@
+body, html{
+    margin:0;
+    padding: 0;
+}
+header {
+    width: 100%;
+    height: 70px;
+    background-color: white;
+}
+#title{
+    font-family: monospace;
+    color: #161d6f;
+    position: absolute;
+    float: left;
+    padding: 5px;
+    margin-left: 50px;
+    margin-top: 15px;
+}
+ul{
+    width: auto;
+    float: right;
+    margin-top: 10px;
+}
+li{
+    display: inline-block;
+    padding: 15px 25px;
+    font-family: poppins;
+    color: black;
+}
+a{
+    text-align: center;
+    color: black;
+    text-decoration: none;
+    font-family: poppins;
+    font-size: 1.5vw;
+}
