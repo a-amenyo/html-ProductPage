@@ -81,12 +81,14 @@ img:hover{
     text-align: center;
     font-family: poppins;
     font-size: 30px;
+    color: white;
 }
 .outlabel{
     text-align: auto;
     margin-left: 30px;
     font-family: poppins;
     font-size: 20px;
+    color: white;
 }
 
 .reviews{
